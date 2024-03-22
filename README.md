@@ -10,13 +10,13 @@ Bringing years of experience to the table with a rich portfolio of projects, I'm
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+994503788833-green)](https://api.whatsapp.com/send?phone=994503788833)
 
 📫 **Reach Out:**
-- 📧 **Email:** ilkinbayramsoy@gmail.com
-- 📞 **Phone:** +994503788833
+- 📧 **Email:** _ilkinbayramsoy@gmail.com_
+- 📞 **Phone:** _+994503788833_
 
 💼 **Tech Stack I Excel In:**
-- **Frontend:** HTML5, CSS, JavaScript, jQuery, Bootstrap
-- **Backend:** C#, .NET, Entity Framework, REST API, Microservices
-- **Database:** & DevOps: SQL Server, MongoDB, Git, Azure, Docker
+- **Frontend:** _HTML5, CSS, JavaScript, jQuery, Bootstrap_
+- **Backend:** _C#, .NET, Entity Framework, REST API, Microservices_
+- **Database & DevOps**: _SQL Server, MongoDB, Git, Azure, Docker_
 
 🌟 **Currently Focused On:**
 - Enhancing workflow efficiency through advanced architecture.
