@@ -1,6 +1,6 @@
 # Hello 👋, I'm Ilkin Bayramov!
 
-### Senior .Net Developer | Full-Stack Enthusiast | Software Craftsman
+### Senior .Net Developer
 
 Bringing years of experience to the table with a rich portfolio of projects, I'm a dedicated developer with a zeal for full-stack development and clean coding practices. I've cultivated a strong expertise in .NET, affirmed by numerous Udemy Certificates and a career of impactful contributions.
 
@@ -10,13 +10,13 @@ Bringing years of experience to the table with a rich portfolio of projects, I'm
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+994503788833-green)](https://api.whatsapp.com/send?phone=994503788833)
 
 📫 **Reach Out:**
-- 📧 Email: ilkinbayramsoy@gmail.com
-- 📞 Phone: +994503788833
+**- 📧 Email:** ilkinbayramsoy@gmail.com
+**- 📞 Phone:** +994503788833
 
 💼 **Tech Stack I Excel In:**
-- Frontend: HTML5, CSS, JavaScript, jQuery, Bootstrap
-- Backend: C#, .NET, Entity Framework, REST API, Microservices
-- Database & DevOps: SQL Server, MongoDB, Git, Azure, Docker
+**- Frontend:** HTML5, CSS, JavaScript, jQuery, Bootstrap
+**- Backend:** C#, .NET, Entity Framework, REST API, Microservices
+**- Database:** & DevOps: SQL Server, MongoDB, Git, Azure, Docker
 
 🌟 **Currently Focused On:**
 - Enhancing workflow efficiency through advanced architecture.
