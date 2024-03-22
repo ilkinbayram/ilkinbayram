@@ -11,12 +11,12 @@ Bringing years of experience to the table with a rich portfolio of projects, I'm
 
 📫 **Reach Out:**
 - 📧 **Email:** ilkinbayramsoy@gmail.com
-- 📞 Phone: +994503788833
+- 📞 **Phone:** +994503788833
 
 💼 **Tech Stack I Excel In:**
-- Frontend: HTML5, CSS, JavaScript, jQuery, Bootstrap
-- Backend: C#, .NET, Entity Framework, REST API, Microservices
-- Database: & DevOps: SQL Server, MongoDB, Git, Azure, Docker
+- **Frontend:** HTML5, CSS, JavaScript, jQuery, Bootstrap
+- **Backend:** C#, .NET, Entity Framework, REST API, Microservices
+- **Database:** & DevOps: SQL Server, MongoDB, Git, Azure, Docker
 
 🌟 **Currently Focused On:**
 - Enhancing workflow efficiency through advanced architecture.
@@ -24,9 +24,9 @@ Bringing years of experience to the table with a rich portfolio of projects, I'm
 - Seeking collaboration on forward-thinking web and software projects.
 
 🌍 **Languages I Speak:**
-- 🇺🇸 English
-- 🇦🇿 Azerbaijani
-- 🇹🇷 Turkish
+- 🇺🇸 _English_
+- 🇦🇿 _Azerbaijani_
+- 🇹🇷 _Turkish_
 
 I'm keen to engage in new ventures and elevate tech experiences. Feel free to reach out for collaboration or to exchange ideas.
 
