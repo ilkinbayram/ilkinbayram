@@ -15,8 +15,8 @@ Bringing years of experience to the table with a rich portfolio of projects, I'm
 
 💼 **Tech Stack I Excel In:**
 - **Frontend:** _HTML5, CSS, JavaScript, jQuery, Bootstrap_
-- **Backend:** _C#, .NET, Entity Framework, REST API, Microservices_
-- **Database & DevOps**: _SQL Server, MongoDB, Git, Azure, Docker_
+- **Backend:** _C#, .NET Framework, .Net Core, Asp.Net MVC,  Entity Framework, REST API, Microservices_
+- **Database & DevOps**: _SQL Server, PostgreSql, MongoDB, Git, Azure, Docker_
 
 🌟 **Currently Focused On:**
 - Enhancing workflow efficiency through advanced architecture.
