@@ -10,7 +10,7 @@ Bringing years of experience to the table with a rich portfolio of projects, I'm
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+994503788833-green)](https://api.whatsapp.com/send?phone=994503788833)
 
 📫 **Reach Out:**
-- 📧 Email: ilkinbayramsoy@gmail.com
+- 📧 **Email:** ilkinbayramsoy@gmail.com
 - 📞 Phone: +994503788833
 
 💼 **Tech Stack I Excel In:**
